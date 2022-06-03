@@ -1,0 +1,3 @@
+SpeechRecognition
+srt3
+pydub
